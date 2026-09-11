@@ -1,0 +1,8 @@
+# Dossier de données local
+BulletinsNotes/
+__pycache__/
+*.pyc
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
